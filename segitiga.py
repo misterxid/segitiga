@@ -1,13 +1,13 @@
 def hitung() :
   pil='y'
   while (pil=='y'):
-   print("______________________________________________________")
+   print("______________________________________________________")|lolcat
    print("Pembuat : MR_XiD.")
-   print("______________________________________________________")
+   print("______________________________________________________")|lolcat
    print("Whastapp: 083851312460")
-   print("===============================")
-   print(" Pilih Dengan Cara Ketik Angka ")
-   print("===============================")
+   print("===============================") | lolcat
+   print(" Pilih Dengan Cara Ketik Angka ") | lolcat
+   print("===============================") | lolcat 
    print("1. Hitung Luas Segitiga        ")
    print("2. Hitung Keliling Segitiga    ")
 
